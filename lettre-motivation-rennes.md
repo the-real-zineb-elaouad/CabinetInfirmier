@@ -1,0 +1,25 @@
+**Objet : Candidature en Master 1 MIAGE — Université de Rennes**
+
+Madame, Monsieur,
+
+Actuellement en troisième année de Licence Informatique parcours MIAGE à l'Université Grenoble Alpes, je souhaite intégrer le Master MIAGE de l'Université de Rennes pour la rentrée 2026, avec pour objectif le parcours M2 Développement des Logiciels et Intégration de Systèmes (DLIS) en alternance.
+
+Titulaire d'un baccalauréat sciences mathématiques, j'ai commencé mes études par deux années de classes préparatoires en sciences de l'ingénieur à l'EMSI Rabat, où j'ai acquis des bases solides en mathématiques, algorithmique et programmation. Mon arrivée en France en 2023 a été un vrai tournant : nouveau pays, nouveau système universitaire. Cette transition a nécessité un temps d'adaptation qui s'est traduit par une année supplémentaire en L3, mais qui m'a permis de consolider mes bases techniques. Je poursuis aujourd'hui ma L3 MIAGE avec de solides acquis techniques et méthodologiques.
+
+Sur le plan professionnel, j'ai effectué deux stages significatifs. Chez ELIS (été 2025), j'ai travaillé sur une application B2B en Angular/TypeScript côté front et Java/Spring Boot côté back, avec mise en place de pipelines CI/CD sur Azure DevOps, tests automatisés Selenium et revues de code en Agile. Actuellement en stage chez ZubHub, je développe des microservices Java/Spring Boot dans une architecture distribuée, avec Kafka pour la communication inter-services et Redis pour le cache. Je gère mes tickets en autonomie et je participe aux démonstrations d'avancement.
+
+Le programme du M1 à Rennes fait directement écho à mon expérience terrain. L'UE Analyse et conception à objets et le Projet de développement logiciel prolongeront les pratiques que j'applique quotidiennement en stage : conception orientée objet, écriture d'un code structuré et maintenable, travail en équipe sur des projets concrets. L'UE Concurrence et coopération dans les systèmes et réseaux résonne particulièrement avec mon travail actuel chez ZubHub, où je gère la communication asynchrone entre microservices via Kafka et les problématiques de cache distribué avec Redis. Les Bases de données décisionnelles et NoSQL approfondiront cette dimension : j'utilise déjà Redis en stage et j'ai réalisé un projet d'analyse de données Covid-19 en R qui m'a initiée aux enjeux décisionnels.
+
+Les UE de Contrôle de gestion et Gestion de production renforceront la dimension managériale de ma double compétence MIAGE, déjà amorcée par les cours de gestion commerciale, comptabilité et management des SI suivis en L3. La mineure Programmation mobile m'intéresse particulièrement pour élargir mon profil technique, aujourd'hui centré sur le développement backend et web. De même, les Systèmes d'information répartis au semestre 2 constitueront un approfondissement naturel de mon expérience en architecture distribuée, et les mineures en Sécurité des bases de données et Web sémantique ouvriront des perspectives complémentaires sur des enjeux auxquels je suis de plus en plus confrontée en entreprise.
+
+Le parcours M2 DLIS en alternance correspond précisément à mon projet professionnel. Les enseignements en Architecture logicielle avancée, Architecture à objets canoniques et Intégration d'applications s'inscrivent dans la continuité directe de mon travail sur des architectures microservices chez ZubHub. L'Ingénierie des exigences et l'Ingénierie des modèles me permettront de structurer ma capacité à formaliser les besoins métiers et à concevoir des solutions robustes, tandis que les Entrepôts de données complèteront mes connaissances en gestion de données à grande échelle. L'UE Multimédia mobile, associée à la programmation mobile du M1, élargira mon spectre de compétences vers le développement d'applications sur terminaux mobiles. Enfin, les modules de Prospective et marketing et Management de production consolideront ma vision globale des enjeux de l'entreprise, indispensable pour évoluer vers des responsabilités de pilotage de projet.
+
+L'alternance en M2 me convient parfaitement. Je suis en recherche active et mes compétences en Java, Spring Boot, Angular et CI/CD me permettront d'être rapidement opérationnelle en entreprise. Mes deux expériences de stage m'ont déjà habituée à travailler en autonomie dans des équipes Agile et à livrer des résultats concrets.
+
+Mon objectif professionnel est de devenir développeuse full-stack spécialisée dans les systèmes d'information, capable de concevoir des architectures logicielles complètes tout en comprenant les enjeux métiers. À terme, j'aimerais évoluer vers un rôle de cheffe de projet ou de lead developer. Le parcours DLIS, centré sur le développement logiciel et l'intégration de systèmes, s'inscrit pleinement dans cette trajectoire.
+
+Je suis motivée, autonome et prête à m'investir pleinement dans cette formation.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Zineb El Aouad
